@@ -1,10 +1,7 @@
 public class A
 {
-	public void demo()
+	public void abc()
 	{
-		for(int i=1; i<=20; i++)
-		{			
-			System.out.println("HELLO");
-		}
+		System.out.println("HI");
 	}
 }
